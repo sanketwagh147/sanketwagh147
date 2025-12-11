@@ -36,21 +36,12 @@ Passionate software engineer who loves building robust applications and explorin
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketwagh147&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Sanket's GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketwagh147&hide_border=true&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Sanket's GitHub Streak" />
-</p>
 
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.sanketwagh.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  
   <a href="https://github.com/sanketwagh147" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/sanketwagh147" target="_blank" rel="noreferrer">
